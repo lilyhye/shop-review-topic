@@ -1,0 +1,5 @@
+{
+  "name": "Keyword Insight Dashboard",
+  "description": "LDA 및 NMF 토픽 모델링 기반의 비즈니스 인사이트 대시보드",
+  "requestFramePermissions": []
+}
